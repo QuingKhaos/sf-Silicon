@@ -1,3 +1,6 @@
+# Intermediate assets
+/Assets/**/*.png
+
 # Blender files
 *.blend1
 
