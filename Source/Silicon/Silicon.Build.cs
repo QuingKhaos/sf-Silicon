@@ -2,9 +2,9 @@ using UnrealBuildTool;
 using System.IO;
 using System;
 
-public class ###NAME### : ModuleRules
+public class Silicon : ModuleRules
 {
-	public ###NAME###(ReadOnlyTargetRules Target) : base(Target)
+	public Silicon(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 		CppStandard = CppStandardVersion.Cpp20;
