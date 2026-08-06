@@ -4,6 +4,8 @@
 
 Adds silicon, fiber optics, silicon wafers, silicone, and more to the game.
 
+If you need to plan things out, you can use my [custom database](https://github.com/QuingKhaos/KhaosSatisfactoryModelerData) for Satisfactory Modeler.
+
 ## What's new?
 
 The following items and recipes have been added to the game, as well as a few changed base game recipes.
