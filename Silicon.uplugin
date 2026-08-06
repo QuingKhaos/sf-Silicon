@@ -16,13 +16,6 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
-	"Modules": [
-		{
-			"Name": "Silicon",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
 		{
 			"Name": "KBFL",
