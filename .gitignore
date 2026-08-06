@@ -1,4 +1,6 @@
 # Intermediate assets
+/Assets/**/*.fbx
+/Assets/**/*.glb
 /Assets/**/*.png
 
 # Blender files
