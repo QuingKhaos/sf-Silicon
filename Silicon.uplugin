@@ -25,6 +25,11 @@
 	],
 	"Plugins": [
 		{
+			"Name": "KBFL",
+			"Enabled": true,
+			"SemVersion": "^2026.3.434"
+		},
+		{
 			"Name": "SML",
 			"Enabled": true,
 			"SemVersion": "^3.12.0"
