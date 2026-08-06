@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.1.2
+Date: ????
+  Balancing:
+    - Halfed the usage of silicon wafers in recipes.
+  Changes:
+    - Add sink points for all new items.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.1
 Date: 2026-08-06
   Changes:
