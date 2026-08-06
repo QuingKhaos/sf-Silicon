@@ -3,3 +3,67 @@
 # Silicon
 
 Adds silicon, fiber optics, silicon wafers, silicone, and more to the game.
+
+## What's new?
+
+The following items and recipes have been added to the game, as well as a few changed base game recipes.
+
+### Silicon
+
+Silica is smelted to Silicon, which is purely used as new intermediate item for the other new items in this mod.
+
+![Silicon recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Silicon.png?raw=true)
+
+### Silicon Wafer
+
+Becoming relevant in tier 5, silicon wafers are used in alternate recipes.
+
+![Silicon wafer recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_SiliconWafer.png?raw=true)
+
+Sulfuric acid is unlocked together with the Silicon Processing milestone.
+
+![Silicon processing milestone](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Schematic_SiliconProcessing.png?raw=true)
+
+![Silicon high-speed connector alternate recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Alternate_SiliconHighSpeedConnector.png?raw=true)
+
+![Silicon circuit board alternate recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Alternate_SiliconCircuitBoard.png?raw=true)
+
+### Optical Fiber
+
+![Optical fiber recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_OpticalFiber.png?raw=true)
+
+![Fiber optics milestone](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Schematic_FiberOptics.png?raw=true)
+
+Optical fiber replaces wire in a few base game recipes.
+
+![Super-state computer alternate recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Alternate_SuperStateComputer.png?raw=true)
+
+![Computer recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Computer.png?raw=true)
+
+![Crystal oscillator recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_CrystalOscillator.png?raw=true)
+
+![High-speed connector recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_HighSpeedConnector.png?raw=true)
+
+### MEMS Gyroscope
+
+![MEMS gyroscope recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Gyro.png?raw=true)
+
+![Microelectromechanical systems milestone](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Schematic_Gyro.png?raw=true)
+
+The MEMS gyroscope is used exclusively for the hoverpack and drones.
+
+It uses a simple storage box as item mesh, because I could not find a suitable item mesh to use for it. If you have a better idea, please let me know on Discord.
+
+### Silicone
+
+![Silicone recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Silicone.png?raw=true)
+
+Silicone is unlocked with the Control System Development milestone in tier 7 and used in a few base game recipes.
+
+![Radio control system alternate recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Alternate_RadioControlSystem.png?raw=true)
+
+![Supercomputer recipe](https://github.com/QuingKhaos/sf-Silicon/blob/0.x/.github/images/Recipe_Supercomputer.png?raw=true)
+
+## License
+
+This mod is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html). You are free to use, modify, and distribute this mod under the same terms of the license.

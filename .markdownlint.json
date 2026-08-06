@@ -5,6 +5,7 @@
   "code-fence-style": {
     "style": "backtick"
   },
+  "no-duplicate-heading": false,
   "emphasis-style": {
     "style": "asterisk"
   },
