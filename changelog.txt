@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
-Date: ????
+Date: 2026-08-08
   Locale:
     - Add German localization.
     - Add Japanese localization.
