@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Translation":
+					{
+						"Text": "用于传输光纤的线缆。"
+					},
+					"Key": "OpticalFiber/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Translation":
+					{
+						"Text": "光纤"
+					},
+					"Key": "FiberOptics/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Translation":
+					{
+						"Text": "学习处理微小的移动电子器械。"
+					},
+					"Key": "Gyro/Schematic/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Translation":
+					{
+						"Text": "微机械陀螺仪"
+					},
+					"Key": "Gyro/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Translation":
+					{
+						"Text": "微电子机械系统"
+					},
+					"Key": "Gyro/Schematic/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Translation":
+					{
+						"Text": "需要使用于各种电力机器或电子元件中。"
+					},
+					"Key": "Silicon/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Translation":
+					{
+						"Text": "光纤"
+					},
+					"Key": "OpticalFiber/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Translation":
+					{
+						"Text": "硅"
+					},
+					"Key": "Silicon/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Translation":
+					{
+						"Text": "硅处理"
+					},
+					"Key": "SiliconProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Translation":
+					{
+						"Text": "硅片"
+					},
+					"Key": "SiliconWafer/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Silicone/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Translation":
+					{
+						"Text": "在电路板中使用硅。"
+					},
+					"Key": "SiliconWafer/Desc"
+				}
+			]
+		}
+	]
+}

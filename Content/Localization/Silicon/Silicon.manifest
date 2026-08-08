@@ -1,0 +1,155 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Keys": [
+						{
+							"Key": "OpticalFiber/Desc",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Keys": [
+						{
+							"Key": "FiberOptics/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Keys": [
+						{
+							"Key": "Gyro/Schematic/Desc",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Keys": [
+						{
+							"Key": "Gyro/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Keys": [
+						{
+							"Key": "Gyro/Schematic/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Keys": [
+						{
+							"Key": "Silicon/Desc",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Keys": [
+						{
+							"Key": "OpticalFiber/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Keys": [
+						{
+							"Key": "Silicon/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Keys": [
+						{
+							"Key": "SiliconProcessing/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Keys": [
+						{
+							"Key": "SiliconWafer/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Keys": [
+						{
+							"Key": "Silicone/Name",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Keys": [
+						{
+							"Key": "SiliconWafer/Desc",
+							"Path": "/Silicon/ST_Silicon.ST_Silicon"
+						}
+					]
+				}
+			]
+		}
+	]
+}

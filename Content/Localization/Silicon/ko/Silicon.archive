@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "OpticalFiber/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Translation":
+					{
+						"Text": "광섬유 광학"
+					},
+					"Key": "FiberOptics/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Translation":
+					{
+						"Text": "움직이는 작은 전자 제품을 다루는 법을 배웁니다."
+					},
+					"Key": "Gyro/Schematic/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Translation":
+					{
+						"Text": "MEMS 자이로스코프"
+					},
+					"Key": "Gyro/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Translation":
+					{
+						"Text": "미세 전자 기계 시스템"
+					},
+					"Key": "Gyro/Schematic/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Translation":
+					{
+						"Text": "다양한 전기 및 전자 용도에 필요합니다."
+					},
+					"Key": "Silicon/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Translation":
+					{
+						"Text": "광섬유"
+					},
+					"Key": "OpticalFiber/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Translation":
+					{
+						"Text": "실리콘"
+					},
+					"Key": "Silicon/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Translation":
+					{
+						"Text": "실리콘 가공"
+					},
+					"Key": "SiliconProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Translation":
+					{
+						"Text": "실리콘 웨이퍼"
+					},
+					"Key": "SiliconWafer/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Silicone/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Translation":
+					{
+						"Text": "회로에 실리콘을 사용합니다."
+					},
+					"Key": "SiliconWafer/Desc"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "OpticalFiber/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Translation":
+					{
+						"Text": "Волоконная оптика"
+					},
+					"Key": "FiberOptics/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Translation":
+					{
+						"Text": "Научитесь обращаться с крошечной подвижной электроникой."
+					},
+					"Key": "Gyro/Schematic/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Translation":
+					{
+						"Text": "МЭМС-гироскопы"
+					},
+					"Key": "Gyro/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Translation":
+					{
+						"Text": "Гироскопы с микроэлектромеханической системой (MEMS)"
+					},
+					"Key": "Gyro/Schematic/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Translation":
+					{
+						"Text": "Необходим для различных электрических и электронных изделий."
+					},
+					"Key": "Silicon/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Translation":
+					{
+						"Text": "Оптоволокно"
+					},
+					"Key": "OpticalFiber/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Translation":
+					{
+						"Text": "Кремний"
+					},
+					"Key": "Silicon/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Translation":
+					{
+						"Text": "Переработка кремния"
+					},
+					"Key": "SiliconProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Translation":
+					{
+						"Text": "Кремниевая пластина"
+					},
+					"Key": "SiliconWafer/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Silicone/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Translation":
+					{
+						"Text": "Используйте кремний в схемах."
+					},
+					"Key": "SiliconWafer/Desc"
+				}
+			]
+		}
+	]
+}

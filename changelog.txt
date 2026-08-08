@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: ????
+  Locale:
+    - Add German localization.
+    - Add Japanese localization.
+    - Add Korean localization.
+    - Add Polish localization.
+    - Add Russian localization.
+    - Add Chinese (China) localization.
+---------------------------------------------------------------------------------------------------
 Version: 0.1.2
 Date: 2026-08-06
   Balancing:

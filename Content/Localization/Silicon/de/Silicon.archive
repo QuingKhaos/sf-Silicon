@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Translation":
+					{
+						"Text": "Kabel für Glasfaser."
+					},
+					"Key": "OpticalFiber/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Translation":
+					{
+						"Text": "Glasfaser"
+					},
+					"Key": "FiberOptics/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Translation":
+					{
+						"Text": "Lerne den Umgang mit winziger beweglicher Elektronik."
+					},
+					"Key": "Gyro/Schematic/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Translation":
+					{
+						"Text": "MEMS-Gyroskop"
+					},
+					"Key": "Gyro/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Translation":
+					{
+						"Text": "Mikromechanische Systeme"
+					},
+					"Key": "Gyro/Schematic/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Translation":
+					{
+						"Text": "Wird für verschiedene elektrische und elektronische Anwendungen benötigt."
+					},
+					"Key": "Silicon/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Translation":
+					{
+						"Text": "Glasfaser"
+					},
+					"Key": "OpticalFiber/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Translation":
+					{
+						"Text": "Silizium"
+					},
+					"Key": "Silicon/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Translation":
+					{
+						"Text": "Siliziumverarbeitung"
+					},
+					"Key": "SiliconProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Translation":
+					{
+						"Text": "Siliziumplatte"
+					},
+					"Key": "SiliconWafer/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Translation":
+					{
+						"Text": "Silikon"
+					},
+					"Key": "Silicone/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Translation":
+					{
+						"Text": "Verwende Silizium in Schaltkreisen."
+					},
+					"Key": "SiliconWafer/Desc"
+				}
+			]
+		}
+	]
+}
