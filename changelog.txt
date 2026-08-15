@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 0.3.0
-Date: ????
+Date: 2026-08-15
   Changes:
     - Bump minimum game version and dependencies.
     - Add LODs and improve texture sizes.
