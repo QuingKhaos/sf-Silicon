@@ -5,6 +5,13 @@ Date: ????
     - Bump minimum game version and dependencies.
     - Add LODs and improve texture sizes.
     - Migrate to KDataForge for CDO changes.
+  Locale:
+    - Add partial Czech translation.
+    - Add partial French translation.
+    - Add partial Hungarian translation.
+    - Add partial Spanish (Spain) translation.
+    - Add partial Turkish translation.
+    - Add partial Ukrainian translation.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.1
 Date: 2026-08-09

@@ -1,0 +1,143 @@
+{
+	"FormatVersion": 2,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "Silicon",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Cable used for fiber optics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "OpticalFiber/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Fiber Optics"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "FiberOptics/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Learn to handle tiny moving electronics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Gyro/Schematic/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "MEMS Gyroscope"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Gyro/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Microelectromechanical Systems"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Gyro/Schematic/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Needed for various electrical and electronic applications."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Silicon/Desc"
+				},
+				{
+					"Source":
+					{
+						"Text": "Optical Fiber"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "OpticalFiber/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon"
+					},
+					"Translation":
+					{
+						"Text": "Кремній"
+					},
+					"Key": "Silicon/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Processing"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "SiliconProcessing/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicon Wafer"
+					},
+					"Translation":
+					{
+						"Text": "Кремнієва пластина"
+					},
+					"Key": "SiliconWafer/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Silicone"
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "Silicone/Name"
+				},
+				{
+					"Source":
+					{
+						"Text": "Use silicon in electronics."
+					},
+					"Translation":
+					{
+						"Text": ""
+					},
+					"Key": "SiliconWafer/Desc"
+				}
+			]
+		}
+	]
+}
