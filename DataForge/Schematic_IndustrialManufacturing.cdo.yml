@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_5-2.Schematic_5-2_C
+    properties:
+      - path: mCost
+        op: append
+        value:
+          ItemClass: /Silicon/Resources/OpticalFiber/Desc_OpticalFiber.Desc_OpticalFiber_C
+          Amount: 500

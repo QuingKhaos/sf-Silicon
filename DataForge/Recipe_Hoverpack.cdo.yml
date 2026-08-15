@@ -1,0 +1,10 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Equipment/Recipe_Hoverpack.Recipe_Hoverpack_C
+    properties:
+      - path: mIngredients
+        op: append
+        value:
+          ItemClass: /Silicon/Resources/Gyro/Desc_Gyro.Desc_Gyro_C
+          Amount: 4
+

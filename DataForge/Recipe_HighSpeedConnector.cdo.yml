@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/Manufacturer/Recipe_HighSpeedConnector.Recipe_HighSpeedConnector_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 1
+        value:
+          ItemClass: /Silicon/Resources/OpticalFiber/Desc_OpticalFiber.Desc_OpticalFiber_C
+          Amount: 10
+

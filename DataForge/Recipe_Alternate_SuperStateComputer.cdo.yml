@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update4/Recipe_Alternate_SuperStateComputer.Recipe_Alternate_SuperStateComputer_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 3
+        value:
+          ItemClass: /Silicon/Resources/OpticalFiber/Desc_OpticalFiber.Desc_OpticalFiber_C
+          Amount: 25
+

@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/Parts/Recipe_Alternate_CircuitBoard_1.Recipe_Alternate_CircuitBoard_1_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 1
+        value:
+          ItemClass: /Silicon/Resources/SiliconWafer/Desc_SiliconWafer.Desc_SiliconWafer_C
+          Amount: 6
+

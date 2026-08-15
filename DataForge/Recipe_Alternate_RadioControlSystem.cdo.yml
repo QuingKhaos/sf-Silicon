@@ -1,0 +1,11 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Recipes/AlternateRecipes/New_Update4/Recipe_Alternate_RadioControlSystem.Recipe_Alternate_RadioControlSystem_C
+    properties:
+      - path: mIngredients
+        op: replace
+        index: 3
+        value:
+          ItemClass: /Silicon/Resources/Silicone/Desc_Silicone.Desc_Silicone_C
+          Amount: 30
+

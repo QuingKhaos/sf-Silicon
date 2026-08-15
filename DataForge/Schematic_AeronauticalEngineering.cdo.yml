@@ -1,0 +1,10 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_7-4.Schematic_7-4_C
+    properties:
+      - path: mCost
+        op: append
+        value:
+          ItemClass: /Silicon/Resources/Gyro/Desc_Gyro.Desc_Gyro_C
+          Amount: 50
+

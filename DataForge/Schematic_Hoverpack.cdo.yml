@@ -1,0 +1,9 @@
+type: cdo
+patches:
+  - target: /Game/FactoryGame/Schematics/Progression/Schematic_8-3.Schematic_8-3_C
+    properties:
+      - path: mCost
+        op: append
+        value:
+          ItemClass: /Silicon/Resources/Silicon/Desc_Silicon.Desc_Silicon_C
+          Amount: 50
