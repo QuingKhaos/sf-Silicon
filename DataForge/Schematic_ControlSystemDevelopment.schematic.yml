@@ -1,0 +1,6 @@
+type: schematic
+schematics:
+  - class: /Game/FactoryGame/Schematics/Progression/Schematic_7-5.Schematic_7-5_C
+    register: false
+    recipes:
+      - /Silicon/Resources/Silicone/Recipe_Silicone.Recipe_Silicone_C

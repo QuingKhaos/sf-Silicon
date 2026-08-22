@@ -7,11 +7,3 @@ patches:
         value:
           ItemClass: /Silicon/Resources/Silicon/Desc_Silicon.Desc_Silicon_C
           Amount: 600
-      - path: mUnlocks
-        op: append
-        value:
-          class: /Game/FactoryGame/Unlocks/BP_UnlockRecipe.BP_UnlockRecipe_C
-          properties:
-            - path: mRecipes
-              value:
-                - /Silicon/Resources/Silicone/Recipe_Silicone.Recipe_Silicone_C
